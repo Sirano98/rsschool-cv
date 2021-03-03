@@ -68,3 +68,12 @@ console.log(factorial(num));
     * https://github.com/Sirano98/deliveryFood
 
 ***
+
+#### Educatiuon
+
+Engineer technologist - bachelor
+
+***
+
+#### Foreign language
+English - B2
